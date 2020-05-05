@@ -6,6 +6,7 @@ public class SampleTest {
 		
 		System.out.println("Hello World");
 		System.out.println("Welcome to Git hub");
+		System.out.println("Welcome to Java");
 
 	}
 
